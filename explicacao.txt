@@ -1,0 +1,4 @@
+Primeiro criamos os vértices usando a classe Grafo.
+Em seguida adicionamos as arestas com seus respectivos pesos usando a função add_aresta.
+A função kruskal_mst é o algoritmo principal que avalia se o subgrafo é um componente conexo distinto.
+Finalmente imprimimos as arestas escolhidas que formam a Árvore Geradora Mínima (MST).
